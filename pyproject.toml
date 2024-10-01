@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "confluent-kafka>=2.5.3",
+    "faker>=30.0.0",
     "jsonschema>=4.23.0",
     "requests>=2.32.3",
 ]
